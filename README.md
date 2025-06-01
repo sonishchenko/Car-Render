@@ -5,7 +5,7 @@
 
 ---
 
-## 🇬🇧 Project Overview
+## Project Overview
 
 Car Rendering is a small React application that demonstrates how to:
 1. Create a static array of car models  
@@ -19,5 +19,10 @@ The goal is to give a starting point for further enhancements, such as:
 - Building more advanced UI components (tables, filters, sorting)  
 - Applying CSS frameworks like TailwindCSS
 
-### 🇬🇧 Structure
+### Structure
 
+- **index.html** — main HTML file containing `<div id="app"></div>`  
+- **scripts/app.js** — JavaScript with `ReactDOM.createRoot` and `renderCars()` function  
+- **README.md** — project description, instructions, roadmap
+
+---
